@@ -72,4 +72,3 @@ export K3S_TOKEN=”K10d71de45fdfcb53498841a01e636eea5d214a4c8ccc21a2d2f9d9399ff
 curl -sfL https://get.k3s.io | sh -
 
 sudo reboot -h now
-
